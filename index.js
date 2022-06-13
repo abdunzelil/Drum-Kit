@@ -16,7 +16,6 @@ document.addEventListener("keydown", function(event) {
 })
 
 // Our common function.
-
 function makeSound(key) {
   switch (key) {
     case "w":
