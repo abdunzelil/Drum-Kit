@@ -4,6 +4,6 @@
 
 This is the Drum Kit web application I made alongside with the course I am taking.
 
-You can basically click on the drums (or press the corresponding keys) to play their sounds.
+You can click on the drums (or press the corresponding keys) to play their sounds.
 
 See the page here: https://abdunzelil.github.io/Drum-Kit/
